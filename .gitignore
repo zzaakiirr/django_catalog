@@ -15,11 +15,3 @@ db.sqlite3
 media_cdn/
 static_cdn/
 products/
-
-### Django ###
-*.log
-*.pot
-*.pyc
-local_settings.py
-
-venv/
